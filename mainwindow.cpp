@@ -23,10 +23,7 @@ using namespace std;
 MainWindow::MainWindow(QWidget *parent)
   : QMainWindow(parent)
 {
-  // Create the button, make "this" the parent
- //m_button = new QPushButton("My Button", this);
-  // set size and location of the button
- //m_button->setGeometry(QRect(QPoint(100, 100), QSize(200, 50)));
+  
 	
 	if (this->objectName().isEmpty())
             this->setObjectName(QString::fromUtf8("Form"));
