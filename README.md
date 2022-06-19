@@ -1,3 +1,4 @@
 # WgetGUI
 A GUI Client for Linux's wget command
-file:///root/Downloads/wget.png
+<br>
+https://github.com/Electro-Corp/WgetGUI/blob/main/wget.png?raw=true
